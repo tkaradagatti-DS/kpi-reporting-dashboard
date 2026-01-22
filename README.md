@@ -1,23 +1,23 @@
 # kpi-reporting-dashboard
+## Business Question
+How can we combine CRM leads, training attendance, and learner feedback into a single KPI reporting view that supports monthly performance tracking (bookings, revenue, attendance rate) and highlights data quality issues before reporting?
 
-## Scenario
-You support a training provider. Teams need monthly KPIs:
-- Bookings, attendance rate, revenue
-- Course performance
-- Channel performance (where leads come from)
-- Customer satisfaction (survey rating)
+## What I delivered
+- Cleaned and standardised 3 data sources (CRM leads, attendance, survey feedback) into analysis-ready datasets.
+- Built a repeatable KPI summary output (monthly bookings, revenue, attendance rate) for dashboard use.
+- Produced a data quality report to surface join gaps, invalid values, and missing/incorrect entries.
+- Documented KPI definitions + a lightweight data dictionary so stakeholders interpret metrics consistently.
 
-## Data sources (synthetic)
-All data is **synthetic** (safe to publish):
-- `crm_leads.csv` — lead creation + channel + region
-- `training_attendance.csv` — bookings, attendance, completion, price
-- `survey_feedback.csv` — post‑session survey ratings
+## Key checks / assumptions
+- Enforced referential integrity checks between attendance `lead_id` and CRM `lead_id` (to avoid missing joins in reporting).
+- Validated pricing (non-null, > 0) and feedback ratings (must be 1–5) before using in KPI calculations.
+- Defined attendance rate as: `attended / total bookings` per month.
+- Assumed survey feedback is optional; reported response rate separately to avoid biasing satisfaction metrics.
 
-## What you will build
-1. **Cleaned datasets** in `data/processed/`
-2. **SQL schema + views** for KPI tables (`sql/`)
-3. **Power BI dashboard** (store `.pbix` in `powerbi/` + screenshots in `docs/images/`)
-4. **Monthly KPI pack** in Excel (`excel/`)
+## Insights (3 bullets)
+- Revenue peaked in **May 2024 (£10,702)** and was lowest in **Nov 2024 (£3,915)**, tracking closely with booking volume (useful for capacity planning).
+- Attendance performance varied significantly: best month hit **96.4% (Oct 2024)**, while the lowest dropped to **67.7% (Jul 2025)** — highlighting a no‑show risk period worth investigating.
+- Feedback coverage was **56% survey response rate** with an average rating of **3.68/5** (overall NPS slightly negative), suggesting stable satisfaction but clear opportunity to improve learner advocacy.
 
 ## Repo structure
 ```
