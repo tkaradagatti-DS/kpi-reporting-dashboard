@@ -1,0 +1,506 @@
+lead_id,created_date,channel,company,region,status
+L10000,2024-03-06,Email,Company 021,Scotland,New
+L10001,2025-07-18,Direct,Company 117,East Midlands,New
+L10002,2025-04-22,Direct,Company 173,London,New
+L10003,2024-11-16,LinkedIn,Company 156,London,Qualified
+L10004,2024-11-12,LinkedIn,Company 050,Yorkshire,New
+L10005,2025-09-18,Referral,Company 082,East Midlands,Won
+L10006,2024-03-03,Paid Search,Company 096,London,Lost
+L10007,2025-05-24,Referral,Company 045,East Midlands,Lost
+L10008,2024-05-27, linkedin ,Company 049,Yorkshire,Qualified
+L10009,2024-03-09,Organic,Company 043,North West,Won
+L10010,2025-01-19,Organic,Company 179,London,New
+L10011,2025-12-13,Referral,Company 134,London,Contacted
+L10012,2025-06-21,Organic,Company 151,East Midlands,Contacted
+L10013,2025-07-09,Paid Search,Company 147,Scotland,Won
+L10014,2025-06-07,Paid Search,,North West,Qualified
+L10015,2025-07-27,Organic,Company 019,West Midlands,Lost
+L10016,2025-01-09,Paid Search,Company 158,London,New
+L10017,2024-04-03,Email,Company 012,Yorkshire,Won
+L10018,2025-09-05,Organic,Company 086,Yorkshire,Contacted
+L10019,2024-11-24,Referral,Company 107,London,Contacted
+L10020,2024-12-31,Direct,Company 065,West Midlands,Won
+L10021,2024-09-27,Paid Search,Company 027,North West,Contacted
+L10022,2024-05-13,Organic,Company 035,North West,Contacted
+L10023,2025-11-07,Email,Company 148,North West,Qualified
+L10024,2025-07-24,Organic,Company 058,East Midlands,New
+L10025,2025-04-15,Paid Search,Company 056,London,Contacted
+L10026,2024-10-20,Direct,Company 166,North West,New
+L10027,2025-08-23,Direct,Company 026,Scotland,New
+L10028,2025-02-02,Referral,Company 164,North West,Won
+L10029,2024-11-19, linkedin ,Company 165,London,Qualified
+L10030,2024-11-24, linkedin ,Company 108,North West,Contacted
+L10031,2024-06-14,Email,Company 030,West Midlands,Contacted
+L10032,2024-03-08,Paid Search,Company 028,East Midlands,Contacted
+L10033,2025-02-08,Email,Company 051,Yorkshire,Qualified
+L10034,2025-10-10,Organic,Company 104,Scotland,Won
+L10035,2024-02-16,Organic,Company 028,Scotland,Won
+L10036,2025-09-18,LinkedIn,,North West,Contacted
+L10037,2025-08-27,Organic,Company 021,East Midlands,Contacted
+L10038,2024-07-21,Organic,Company 097,Scotland,Contacted
+L10039,2025-04-06,Referral,Company 004,London,Qualified
+L10040,2024-04-30,Direct,Company 127,West Midlands,Contacted
+L10041,2025-07-07,LinkedIn,Company 010,Scotland,Qualified
+L10042,2025-05-26,Referral,Company 035,Yorkshire,Qualified
+L10043,2024-09-15,Direct,,Yorkshire,Contacted
+L10044,2024-02-19,Organic,Company 149,West Midlands,Contacted
+L10045,2025-12-09,Paid Search,Company 010,Scotland,Contacted
+L10046,2024-11-21,Paid Search,Company 077,London,New
+L10047,2025-10-13,Organic,Company 106,North West,New
+L10048,2025-05-09,Referral,Company 093,Yorkshire,Lost
+L10049,2025-07-22,Paid Search,Company 122,North West,Contacted
+L10050,2025-07-08,LinkedIn,Company 144,West Midlands,New
+L10051,2024-05-22,Organic,Company 071,West Midlands,Qualified
+L10052,2024-09-22,Organic,Company 149,London,Lost
+L10053,2024-12-06,Direct,Company 057,Scotland,Contacted
+L10054,2024-12-29,Organic,Company 177,Yorkshire,Lost
+L10055,2024-02-01,Organic,Company 091,London,Won
+L10056,2025-02-02,Paid Search,Company 132,Yorkshire,Qualified
+L10057,2024-04-22,LinkedIn,Company 157,Yorkshire,Qualified
+L10058,2025-06-26,LinkedIn,Company 142,London,New
+L10059,2025-05-13,LinkedIn,Company 153,London,Won
+L10060,2025-11-04,Organic,Company 097,Scotland,Contacted
+L10061,2025-06-27,Organic,Company 008,North West,Won
+L10062,2024-09-24,Referral,Company 089,East Midlands,Qualified
+L10063,2025-12-07,Email,Company 033,Yorkshire,New
+L10064,2024-10-26,Email,Company 160,North West,New
+L10065,2024-08-25,Email,Company 043,North West,Qualified
+L10066,2025-10-23,Referral,,,Qualified
+L10067,2024-09-27,Organic,Company 045,Scotland,New
+L10068,2024-02-25,Paid Search,Company 116,West Midlands,Lost
+L10069,2024-12-08,LinkedIn,Company 103,London,Won
+L10070,2025-08-03,Paid Search,Company 170,West Midlands,Contacted
+L10071,2024-05-18,Referral,Company 075,North West,Contacted
+L10072,2024-12-03,LinkedIn,Company 051,London,New
+L10073,2024-04-04,Referral,Company 009,London,Lost
+L10074,2025-05-16,Direct,Company 002,Yorkshire,Contacted
+L10075,2024-12-13,LinkedIn,Company 067,London,Won
+L10076,2024-08-29,Direct,Company 166,London,Contacted
+L10077,2024-06-14,LinkedIn,Company 094,London,Qualified
+L10078,2025-02-16,Direct,Company 160,West Midlands,Contacted
+L10079,2025-05-03,Paid Search,Company 019,East Midlands,New
+L10080,2025-11-17,LinkedIn,Company 017,Yorkshire,Lost
+L10081,2024-11-15,LinkedIn,Company 150,East Midlands,Contacted
+L10082,2024-04-27,Organic,Company 020,West Midlands,Qualified
+L10083,2025-08-30,Paid Search,Company 010,Yorkshire,Won
+L10084,2025-04-04,Direct,Company 073,,Won
+L10085,2025-05-26,Email,Company 166,North West,Won
+L10086,2024-03-11,Organic,Company 124,Yorkshire,New
+L10087,2024-08-16,Paid Search,Company 018,North West,Qualified
+L10088,2025-07-14,Organic,Company 150,West Midlands,Won
+L10089,2025-08-30,Organic,Company 151,East Midlands,Contacted
+L10090,2024-11-13,Direct,Company 144,Scotland,New
+L10091,2025-08-10,Paid Search,Company 162,West Midlands,Lost
+L10092,2025-09-06,Paid Search,Company 043,Yorkshire,Contacted
+L10093,2024-10-09,LinkedIn,Company 176,West Midlands,Qualified
+L10094,2025-10-17,Organic,Company 058,East Midlands,Won
+L10095,2024-07-29,Paid Search,Company 144,Yorkshire,Qualified
+L10096,2024-06-23,Email,Company 104,Scotland,Contacted
+L10097,2025-05-13,Email,Company 140,Scotland,Contacted
+L10098,2025-04-09,Direct,Company 113,Yorkshire,Contacted
+L10099,2024-04-12, linkedin ,Company 116,West Midlands,New
+L10100,2025-08-30,LinkedIn,Company 111,Scotland,Lost
+L10101,2024-05-25,Referral,Company 140,Yorkshire,Lost
+L10102,2025-08-10,Direct,Company 133,West Midlands,Contacted
+L10103,2024-01-06,Email,Company 025,East Midlands,Contacted
+L10104,2025-08-04,Direct,Company 148,Scotland,Won
+L10105,2025-07-28,Referral,Company 096,,New
+L10106,2025-07-23,Direct,Company 058,Yorkshire,Qualified
+L10107,2025-04-30,Organic,Company 093,East Midlands,Contacted
+L10108,2024-12-10,Email,Company 174,West Midlands,Qualified
+L10109,2025-05-29,Paid Search,Company 154,West Midlands,New
+L10110,2024-07-21,LinkedIn,Company 150,West Midlands,Qualified
+L10111,2025-07-23,Email,Company 083,Yorkshire,Contacted
+L10112,2025-02-09,Direct,Company 141,Scotland,Qualified
+L10113,2024-12-01,Direct,Company 069,Scotland,New
+L10114,2025-01-04,Paid Search,Company 123,Yorkshire,Contacted
+L10115,2025-02-19,Email,Company 115,West Midlands,Qualified
+L10116,2024-01-28,Email,Company 045,Scotland,New
+L10117,2024-04-12,Paid Search,Company 048,North West,New
+L10118,2024-06-28,Organic,Company 011,North West,New
+L10119,2024-03-24,Organic,Company 026,Yorkshire,Contacted
+L10120,2024-11-16,Referral,Company 078,Yorkshire,New
+L10121,2025-05-02,LinkedIn,Company 086,Scotland,Won
+L10122,2025-04-22,Direct,Company 030,North West,Contacted
+L10123,2024-12-09,LinkedIn,Company 075,North West,Lost
+L10124,2025-09-16,Direct,Company 109,Yorkshire,Won
+L10125,2025-02-16,Paid Search,Company 042,West Midlands,New
+L10126,2024-02-27,Referral,Company 061,West Midlands,Qualified
+L10127,2025-07-12,Organic,Company 066,North West,Won
+L10128,2025-02-23,LinkedIn,Company 091,East Midlands,Qualified
+L10129,2025-04-08,Referral,Company 066,West Midlands,Contacted
+L10130,2025-02-16,Direct,Company 132,Yorkshire,Contacted
+L10131,2025-02-08,Referral,Company 059,Scotland,New
+L10132,2024-03-07,Organic,Company 078,North West,Qualified
+L10133,2025-02-12,Paid Search,Company 068,London,Won
+L10134,2025-08-03,Organic,Company 033,London,Won
+L10135,2024-08-09,Organic,Company 123,Yorkshire,New
+L10136,2025-03-16,Email,Company 043,North West,Lost
+L10137,2024-01-23,Email,Company 054,East Midlands,Contacted
+L10138,2024-09-10,Referral,Company 142,North West,Won
+L10139,2024-11-14,Direct,Company 170,London,New
+L10140,2025-12-18,Email,Company 121,Yorkshire,Won
+L10141,2024-06-05,Referral,Company 165,Scotland,Lost
+L10142,2024-07-20,Organic,Company 153,Scotland,New
+L10143,2024-10-25,Organic,Company 087,North West,New
+L10144,2025-12-25,Email,Company 138,,Lost
+L10145,2025-09-14,Direct,Company 059,London,New
+L10146,2024-01-26,Organic,Company 083,West Midlands,Qualified
+L10147,2024-06-19,LinkedIn,Company 096,Scotland,Won
+L10148,2025-08-22,Email,Company 172,Scotland,Qualified
+L10149,2024-02-12,Organic,Company 152,Scotland,Contacted
+L10150,2025-09-16,Paid Search,Company 088,West Midlands,Contacted
+L10151,2024-07-24,Direct,Company 117,West Midlands,New
+L10152,2025-10-31,Email,Company 037,Scotland,Won
+L10153,2024-08-02, linkedin ,Company 144,North West,Contacted
+L10154,2024-11-13,Direct,Company 099,Yorkshire,New
+L10155,2025-04-28,Paid Search,Company 096,London,Contacted
+L10156,2024-04-02,Direct,Company 138,London,Won
+L10157,2025-02-10,Paid Search,Company 114,North West,New
+L10158,2025-01-03,LinkedIn,Company 013,Yorkshire,Won
+L10159,2025-07-26,Paid Search,Company 052,London,Lost
+L10160,2025-12-28,Paid Search,Company 032,Yorkshire,Lost
+L10161,2025-04-29,Direct,Company 132,West Midlands,Won
+L10162,2024-10-25,Organic,Company 007,London,Lost
+L10163,2024-10-23,Organic,Company 037,Scotland,Won
+L10164,2024-11-01,Paid Search,Company 107,,New
+L10165,2025-08-17,Email,Company 125,Scotland,Lost
+L10166,2024-08-22,Referral,Company 091,West Midlands,Qualified
+L10167,2024-05-01,Direct,Company 155,Scotland,Qualified
+L10168,2024-09-01,Paid Search,Company 165,Scotland,Won
+L10169,2024-01-17,Paid Search,Company 024,Scotland,Won
+L10170,2024-03-18,Organic,Company 171,East Midlands,Lost
+L10171,2024-03-06,LinkedIn,Company 110,Yorkshire,Contacted
+L10172,2025-07-17,Direct,Company 114,Scotland,Contacted
+L10173,2025-06-11,Email,Company 018,Yorkshire,Contacted
+L10174,2025-05-23, linkedin ,Company 112,West Midlands,Contacted
+L10175,2024-12-03,Paid Search,Company 130,Yorkshire,Contacted
+L10176,2025-06-07,Direct,Company 104,East Midlands,New
+L10177,2024-04-27,LinkedIn,Company 016,London,New
+L10178,2025-10-19,Organic,Company 094,North West,Lost
+L10179,2024-12-31,Paid Search,Company 168,London,Contacted
+L10180,2025-11-15,Organic,Company 130,Yorkshire,Won
+L10181,2024-04-21,Organic,Company 025,West Midlands,Qualified
+L10182,2024-12-29,Organic,Company 172,North West,New
+L10183,2025-05-23,LinkedIn,Company 172,North West,New
+L10184,2024-12-27,Email,Company 031,North West,New
+L10185,2024-11-21,Paid Search,Company 144,West Midlands,Won
+L10186,2024-05-01,Paid Search,Company 073,West Midlands,New
+L10187,2024-10-05,Direct,Company 107,West Midlands,Qualified
+L10188,2024-06-23,Referral,Company 080,London,Won
+L10189,2024-08-08,LinkedIn,Company 141,North West,Won
+L10190,2025-05-14,Paid Search,Company 179,London,New
+L10191,2025-04-05,Direct,Company 143,London,New
+L10192,2025-03-19,Organic,Company 167,West Midlands,New
+L10193,2024-09-21,Paid Search,Company 170,West Midlands,New
+L10194,2025-12-01,Direct,Company 017,North West,New
+L10195,2024-03-04,LinkedIn,Company 046,Yorkshire,Qualified
+L10196,2024-09-07,Email,Company 130,West Midlands,Won
+L10197,2024-03-27,LinkedIn,Company 106,Scotland,Qualified
+L10198,2024-09-04,Email,Company 009,North West,Qualified
+L10199,2025-12-03,Paid Search,Company 018,West Midlands,New
+L10200,2024-09-24,Organic,Company 094,London,Lost
+L10201,2025-10-25,Paid Search,Company 111,East Midlands,Qualified
+L10202,2024-12-27,Organic,Company 031,East Midlands,Won
+L10203,2025-05-25,Direct,Company 031,London,Won
+L10204,2024-11-29,Paid Search,Company 024,London,Contacted
+L10205,2024-07-13,LinkedIn,Company 102,Yorkshire,New
+L10206,2025-07-11,Referral,Company 002,East Midlands,New
+L10207,2025-12-08,Referral,Company 103,Scotland,Contacted
+L10208,2024-07-11,Paid Search,Company 086,West Midlands,Won
+L10209,2025-07-22,LinkedIn,Company 084,East Midlands,Contacted
+L10210,2024-07-09,Direct,Company 122,Yorkshire,Lost
+L10211,2025-06-07,Email,Company 094,Yorkshire,Qualified
+L10212,2025-07-29,Referral,Company 131,North West,New
+L10213,2024-11-24,Direct,Company 137,East Midlands,Contacted
+L10214,2025-06-21,Referral,Company 165,East Midlands,Qualified
+L10215,2024-07-17,Organic,Company 144,London,Qualified
+L10216,2024-02-27,LinkedIn,Company 093,London,Contacted
+L10217,2024-03-11,Organic,Company 089,Scotland,New
+L10218,2024-11-22,Email,Company 043,West Midlands,Lost
+L10219,2025-10-20,Direct,Company 108,West Midlands,New
+L10220,2024-04-03,LinkedIn,Company 025,Scotland,Won
+L10221,2024-11-28,Paid Search,Company 167,East Midlands,New
+L10222,2025-05-28,Organic,Company 152,East Midlands,New
+L10223,2024-05-27,Direct,Company 022,London,Contacted
+L10224,2025-06-10,Organic,Company 141,London,Qualified
+L10225,2024-08-11,Organic,Company 021,North West,Qualified
+L10226,2025-08-13,Organic,Company 130,Scotland,Contacted
+L10227,2025-02-26,Organic,Company 016,Scotland,Won
+L10228,2025-02-03,LinkedIn,Company 088,West Midlands,Contacted
+L10229,2024-05-09,LinkedIn,Company 118,Scotland,Contacted
+L10230,2024-12-04,Paid Search,Company 131,North West,Contacted
+L10231,2025-09-17,Organic,Company 075,East Midlands,New
+L10232,2024-01-15,Organic,Company 165,Scotland,Qualified
+L10233,2025-07-07,Paid Search,Company 139,East Midlands,New
+L10234,2024-12-25,Organic,Company 038,North West,Qualified
+L10235,2025-06-09,Email,Company 121,Yorkshire,New
+L10236,2025-04-29,Organic,Company 131,West Midlands,Won
+L10237,2024-11-11,Paid Search,Company 060,West Midlands,Contacted
+L10238,2024-08-13,Paid Search,Company 133,London,Won
+L10239,2025-04-02,Paid Search,Company 161,Scotland,Contacted
+L10240,2024-04-12,Organic,Company 147,West Midlands,New
+L10241,2025-03-02,Organic,Company 137,North West,Lost
+L10242,2024-03-10,Direct,Company 114,London,Qualified
+L10243,2025-04-19,Organic,Company 049,East Midlands,Lost
+L10244,2025-04-03,LinkedIn,Company 143,Yorkshire,Contacted
+L10245,2024-03-02,LinkedIn,Company 066,Yorkshire,Qualified
+L10246,2025-07-06,Paid Search,Company 096,North West,Won
+L10247,2024-10-30,Paid Search,Company 057,West Midlands,Qualified
+L10248,2025-07-28,Referral,Company 057,East Midlands,Contacted
+L10249,2024-01-31,Referral,Company 029,London,Qualified
+L10250,2024-05-11,Paid Search,Company 173,North West,Qualified
+L10251,2024-12-26,Paid Search,Company 027,North West,Won
+L10252,2024-05-17,Organic,Company 016,West Midlands,Contacted
+L10253,2024-08-28,LinkedIn,Company 168,North West,Contacted
+L10254,2025-04-27,Email,Company 100,West Midlands,Lost
+L10255,2024-04-15,Organic,Company 079,Yorkshire,Qualified
+L10256,2025-05-09,Paid Search,Company 133,Yorkshire,Lost
+L10257,2024-03-16,Direct,Company 069,North West,Contacted
+L10258,2024-05-07,Organic,Company 023,East Midlands,New
+L10259,2025-03-04,LinkedIn,Company 131,Scotland,Lost
+L10260,2025-08-02,Email,Company 032,East Midlands,New
+L10261,2024-05-04,Organic,Company 099,Scotland,New
+L10262,2024-08-06,Organic,Company 170,East Midlands,Qualified
+L10263,2025-11-06,Organic,,North West,Lost
+L10264,2025-12-23,Direct,Company 065,East Midlands,Won
+L10265,2025-02-28,Organic,Company 140,East Midlands,Contacted
+L10266,2024-11-22,Organic,Company 110,Yorkshire,New
+L10267,2024-09-10,Organic,Company 086,Yorkshire,Won
+L10268,2025-03-23,Organic,Company 026,East Midlands,New
+L10269,2025-03-07,Email,Company 068,Scotland,New
+L10270,2024-08-03,Organic,Company 117,West Midlands,Contacted
+L10271,2024-01-17,LinkedIn,Company 177,West Midlands,Qualified
+L10272,2024-04-20,LinkedIn,Company 001,West Midlands,Won
+L10273,2025-11-30,Referral,Company 129,London,Lost
+L10274,2024-11-01,Organic,Company 152,West Midlands,Lost
+L10275,2024-12-18,Direct,Company 171,London,New
+L10276,2024-12-06,Email,Company 076,West Midlands,Contacted
+L10277,2025-07-25,Organic,Company 022,East Midlands,Contacted
+L10278,2024-02-17,Referral,Company 049,London,New
+L10279,2024-03-01,Direct,Company 153,Yorkshire,Contacted
+L10280,2024-07-20,Paid Search,Company 158,Yorkshire,Contacted
+L10281,2024-12-21,Direct,Company 115,London,New
+L10282,2025-05-04,LinkedIn,Company 022,West Midlands,Qualified
+L10283,2024-12-24,Email,Company 022,Yorkshire,Lost
+L10284,2024-11-18,Direct,Company 086,Yorkshire,New
+L10285,2025-11-15,Paid Search,Company 106,Yorkshire,Contacted
+L10286,2024-04-27,Referral,Company 006,Scotland,Lost
+L10287,2025-02-21,Paid Search,Company 123,Yorkshire,Lost
+L10288,2025-01-30,Referral,Company 098,Scotland,Lost
+L10289,2024-12-11,Email,Company 003,London,Contacted
+L10290,2025-08-12,Organic,Company 018,London,Lost
+L10291,2024-07-13,Paid Search,Company 082,West Midlands,New
+L10292,2025-11-27,Paid Search,Company 130,West Midlands,Contacted
+L10293,2024-08-30,Organic,Company 148,Yorkshire,New
+L10294,2025-02-01,Organic,Company 078,Yorkshire,Contacted
+L10295,2025-01-15,Paid Search,Company 053,Yorkshire,Contacted
+L10296,2025-09-12,Organic,Company 174,West Midlands,New
+L10297,2024-11-16,Organic,Company 083,London,Lost
+L10298,2024-07-26,Email,Company 057,West Midlands,Contacted
+L10299,2024-01-16,Email,Company 080,Scotland,Contacted
+L10300,2024-09-22,Email,Company 003,West Midlands,New
+L10301,2025-08-26,Paid Search,Company 055,East Midlands,Contacted
+L10302,2024-01-08,Direct,Company 093,North West,Contacted
+L10303,2025-10-16,LinkedIn,Company 165,Scotland,Contacted
+L10304,2025-01-31,Organic,Company 133,Scotland,New
+L10305,2024-04-12,Organic,Company 140,East Midlands,Lost
+L10306,2024-08-08,Email,Company 098,West Midlands,Won
+L10307,2025-02-08,Organic,Company 020,East Midlands,Contacted
+L10308,2024-08-18,LinkedIn,Company 070,West Midlands,Qualified
+L10309,2024-03-20,Direct,Company 179,North West,Won
+L10310,2025-05-01,Organic,Company 008,West Midlands,Won
+L10311,2025-05-05,Organic,Company 158,East Midlands,Qualified
+L10312,2024-03-27,Direct,Company 123,North West,Won
+L10313,2024-07-24,LinkedIn,Company 051,East Midlands,Won
+L10314,2024-06-27,Organic,Company 140,West Midlands,Lost
+L10315,2025-04-26, linkedin ,Company 150,East Midlands,Contacted
+L10316,2025-06-17,Direct,Company 008,East Midlands,New
+L10317,2025-06-14,LinkedIn,Company 020,London,New
+L10318,2025-11-16,Email,Company 120,Scotland,Contacted
+L10319,2025-07-15,Paid Search,Company 179,Yorkshire,Contacted
+L10320,2024-08-22,Organic,Company 005,East Midlands,Contacted
+L10321,2024-03-19,LinkedIn,Company 120,East Midlands,Qualified
+L10322,2025-03-24,Paid Search,Company 025,London,Qualified
+L10323,2025-10-30,Email,Company 117,North West,Lost
+L10324,2025-12-12,Referral,Company 112,Yorkshire,New
+L10325,2024-06-17,Organic,Company 017,Yorkshire,New
+L10326,2024-06-21,LinkedIn,Company 122,London,Lost
+L10327,2024-01-28,Organic,Company 161,West Midlands,Lost
+L10328,2024-04-13,Direct,Company 155,East Midlands,Won
+L10329,2025-02-09,Paid Search,Company 006,East Midlands,Won
+L10330,2025-02-03,Email,Company 045,East Midlands,Won
+L10331,2024-09-27,LinkedIn,Company 044,Scotland,Contacted
+L10332,2024-08-14,Paid Search,Company 082,West Midlands,Contacted
+L10333,2025-08-28,Email,Company 026,Yorkshire,Contacted
+L10334,2024-12-01,Email,Company 153,North West,Qualified
+L10335,2025-08-13,LinkedIn,Company 140,North West,Won
+L10336,2025-12-04,Referral,Company 145,London,Contacted
+L10337,2024-08-19,Direct,Company 036,Yorkshire,Qualified
+L10338,2024-05-27,Paid Search,Company 003,East Midlands,Contacted
+L10339,2025-11-26,LinkedIn,Company 164,East Midlands,New
+L10340,2025-04-08,Organic,Company 052,London,New
+L10341,2024-07-31,Referral,Company 118,London,New
+L10342,2025-03-29,LinkedIn,Company 163,North West,Won
+L10343,2025-01-10,Paid Search,Company 007,Yorkshire,Contacted
+L10344,2025-10-23,Organic,Company 001,North West,Lost
+L10345,2024-07-05,Direct,Company 001,West Midlands,Qualified
+L10346,2025-12-24,Paid Search,Company 028,West Midlands,New
+L10347,2025-11-14,Email,Company 010,Yorkshire,New
+L10348,2024-05-11,Organic,Company 147,West Midlands,Lost
+L10349,2024-04-30,Direct,Company 109,North West,Contacted
+L10350,2025-01-24,Organic,Company 176,North West,Won
+L10351,2024-02-02,Organic,Company 144,Yorkshire,New
+L10352,2024-08-06,Direct,Company 173,Yorkshire,Qualified
+L10353,2024-11-13,Direct,Company 043,London,Lost
+L10354,2025-12-08,Organic,Company 052,West Midlands,New
+L10355,2025-12-25,LinkedIn,Company 153,London,Contacted
+L10356,2024-04-20,Email,Company 044,London,Won
+L10357,2025-10-12,Direct,Company 011,West Midlands,Contacted
+L10358,2024-03-07,Paid Search,Company 120,North West,Contacted
+L10359,2025-06-30,LinkedIn,Company 144,West Midlands,Contacted
+L10360,2025-09-09,Email,Company 174,North West,Contacted
+L10361,2025-10-12,Email,Company 167,Yorkshire,Lost
+L10362,2024-06-12,Referral,Company 022,Scotland,Lost
+L10363,2025-10-14,LinkedIn,Company 139,East Midlands,Contacted
+L10364,2024-03-25,Organic,Company 152,Yorkshire,Lost
+L10365,2025-01-13,Direct,Company 125,East Midlands,New
+L10366,2024-12-08,Direct,Company 147,London,New
+L10367,2024-08-18,Referral,Company 150,West Midlands,Qualified
+L10368,2024-01-17,Organic,Company 080,East Midlands,Won
+L10369,2025-07-17,Organic,Company 008,West Midlands,New
+L10370,2024-09-01,Email,Company 082,East Midlands,New
+L10371,2025-04-28,Organic,Company 037,Yorkshire,Qualified
+L10372,2024-10-26,Direct,Company 021,East Midlands,Lost
+L10373,2024-09-29,Paid Search,Company 023,London,New
+L10374,2025-10-08,Email,Company 125,Yorkshire,Contacted
+L10375,2024-03-09,Direct,Company 091,Scotland,Lost
+L10376,2025-06-21,Paid Search,Company 097,Scotland,Contacted
+L10377,2025-06-29,Paid Search,Company 134,East Midlands,New
+L10378,2024-10-04,Email,Company 099,Scotland,New
+L10379,2024-07-10,LinkedIn,Company 113,North West,Contacted
+L10380,2024-01-04,Paid Search,Company 016,West Midlands,Contacted
+L10381,2025-11-14,Email,Company 153,London,Won
+L10382,2025-11-22,Direct,Company 081,Scotland,Qualified
+L10383,2024-06-24,LinkedIn,Company 028,London,Qualified
+L10384,2024-01-24,Organic,Company 146,West Midlands,Won
+L10385,2024-03-30,Paid Search,Company 132,Scotland,Contacted
+L10386,2024-02-19,Paid Search,Company 010,Scotland,Contacted
+L10387,2025-08-29,Organic,Company 035,Scotland,Won
+L10388,2025-10-13,Organic,Company 003,Scotland,New
+L10389,2024-04-21,Email,Company 049,Scotland,Lost
+L10390,2025-06-29,Paid Search,Company 018,London,Lost
+L10391,2024-05-10,Direct,Company 128,West Midlands,New
+L10392,2024-09-25,Organic,Company 094,North West,Contacted
+L10393,2025-03-13,Organic,Company 176,West Midlands,New
+L10394,2025-06-09,Referral,Company 135,London,New
+L10395,2025-09-30,Direct,Company 110,North West,Contacted
+L10396,2024-02-02,Paid Search,Company 092,Scotland,Contacted
+L10397,2024-05-23,Organic,Company 010,West Midlands,Lost
+L10398,2024-07-23,Organic,Company 013,West Midlands,Won
+L10399,2024-08-14,LinkedIn,Company 111,Yorkshire,Lost
+L10400,2025-12-29,LinkedIn,Company 001,East Midlands,Contacted
+L10401,2025-07-21,Paid Search,Company 008,North West,Contacted
+L10402,2024-08-21,Organic,Company 040,Yorkshire,Contacted
+L10403,2025-12-10,LinkedIn,Company 159,North West,New
+L10404,2024-12-30, linkedin ,Company 083,London,Won
+L10405,2024-12-31,Email,Company 128,Yorkshire,Contacted
+L10406,2024-11-12,LinkedIn,Company 074,London,New
+L10407,2024-04-15,Organic,Company 031,Yorkshire,Lost
+L10408,2025-11-13,Paid Search,Company 067,,Contacted
+L10409,2024-01-11,Paid Search,Company 017,East Midlands,New
+L10410,2024-05-07,Referral,Company 138,,New
+L10411,2024-06-16,Direct,Company 033,East Midlands,Qualified
+L10412,2024-07-22,Direct,Company 068,Scotland,Lost
+L10413,2024-04-06,Direct,Company 176,North West,New
+L10414,2024-01-14,Direct,Company 106,London,Won
+L10415,2025-05-09,Direct,Company 083,London,Won
+L10416,2025-12-08, linkedin ,Company 098,North West,Lost
+L10417,2024-03-29,Organic,Company 141,West Midlands,New
+L10418,2024-08-04,Paid Search,Company 046,West Midlands,New
+L10419,2025-01-04,LinkedIn,Company 114,London,Won
+L10420,2025-11-08,Organic,Company 157,West Midlands,Contacted
+L10421,2025-05-21,Referral,Company 103,Yorkshire,Qualified
+L10422,2025-07-13,Email,Company 080,East Midlands,Lost
+L10423,2025-02-28,LinkedIn,Company 026,Yorkshire,New
+L10424,2024-10-31,Organic,Company 045,London,Lost
+L10425,2024-05-25,Paid Search,Company 170,North West,Won
+L10426,2025-09-22,Organic,Company 097,East Midlands,Lost
+L10427,2025-08-10,Direct,Company 054,London,Contacted
+L10428,2024-01-19,LinkedIn,Company 075,Yorkshire,Won
+L10429,2025-06-06,Email,Company 104,West Midlands,Qualified
+L10430,2024-03-02,Paid Search,Company 097,East Midlands,Lost
+L10431,2025-06-23,Paid Search,Company 126,North West,Lost
+L10432,2025-08-25,Paid Search,Company 047,East Midlands,Lost
+L10433,2024-04-05,Referral,Company 117,West Midlands,Contacted
+L10434,2024-11-12,Referral,Company 080,London,New
+L10435,2024-03-31,Organic,Company 169,North West,New
+L10436,2025-02-18,Direct,Company 029,North West,Qualified
+L10437,2025-11-08,Organic,Company 027,Yorkshire,Qualified
+L10438,2024-02-29,Direct,Company 083,Scotland,Qualified
+L10439,2024-10-17,Organic,Company 091,East Midlands,Contacted
+L10440,2025-12-11, linkedin ,Company 124,London,Lost
+L10441,2024-08-07,Referral,Company 073,East Midlands,Won
+L10442,2024-04-06,Organic,Company 164,East Midlands,New
+L10443,2024-12-22,Paid Search,Company 085,West Midlands,Lost
+L10444,2025-01-06,Paid Search,Company 024,North West,Qualified
+L10445,2025-04-28,Organic,Company 022,Scotland,Qualified
+L10446,2024-08-17,Email,Company 175,Yorkshire,New
+L10447,2025-11-28,Direct,Company 025,North West,Lost
+L10448,2025-01-15,Direct,Company 170,Yorkshire,Won
+L10449,2024-07-28,Paid Search,Company 050,West Midlands,Lost
+L10450,2025-12-02,LinkedIn,Company 017,Scotland,Won
+L10451,2025-11-06,Organic,Company 055,Scotland,Won
+L10452,2024-12-30,Organic,Company 111,East Midlands,Contacted
+L10453,2024-01-19,Organic,Company 077,London,Qualified
+L10454,2025-03-11,Direct,Company 141,,Contacted
+L10455,2025-02-09,Direct,Company 110,London,Won
+L10456,2024-04-18,Referral,Company 072,Scotland,New
+L10457,2025-04-07,LinkedIn,Company 114,Scotland,Contacted
+L10458,2025-09-05,LinkedIn,Company 174,London,Won
+L10459,2024-03-18,LinkedIn,Company 074,East Midlands,Contacted
+L10460,2025-06-12,LinkedIn,Company 028,London,Lost
+L10461,2024-04-12,Paid Search,Company 074,West Midlands,Contacted
+L10462,2025-06-30,Organic,Company 151,London,Won
+L10463,2024-11-01,Organic,Company 039,North West,Won
+L10464,2024-01-05,Direct,Company 170,London,Contacted
+L10465,2025-12-06,LinkedIn,Company 106,West Midlands,Lost
+L10466,2024-05-01,Direct,Company 108,West Midlands,Contacted
+L10467,2025-03-11,Organic,Company 057,Yorkshire,Qualified
+L10468,2024-05-12,LinkedIn,Company 165,East Midlands,Qualified
+L10469,2025-11-12,Organic,Company 007,West Midlands,Lost
+L10470,2025-06-22,Paid Search,Company 054,Scotland,New
+L10471,2025-08-10,Organic,Company 075,East Midlands,New
+L10472,2024-11-11,Organic,Company 086,London,Lost
+L10473,2024-12-07,Direct,Company 085,West Midlands,Qualified
+L10474,2025-04-08,Paid Search,Company 027,East Midlands,Contacted
+L10475,2025-07-26,Email,Company 041,London,New
+L10476,2025-09-10,LinkedIn,Company 018,North West,Contacted
+L10477,2024-01-14,Paid Search,Company 103,West Midlands,Won
+L10478,2025-04-29,LinkedIn,Company 063,East Midlands,New
+L10479,2024-03-20,Organic,Company 102,East Midlands,Contacted
+L10480,2024-07-29,Direct,Company 106,North West,Won
+L10481,2025-08-28,Referral,Company 126,Scotland,New
+L10482,2024-07-01,Email,Company 098,West Midlands,Lost
+L10483,2025-08-04,LinkedIn,Company 116,West Midlands,Contacted
+L10484,2024-12-03,Organic,Company 106,London,Won
+L10485,2024-06-18,Direct,Company 117,London,Lost
+L10486,2024-08-31,Paid Search,Company 111,West Midlands,Won
+L10487,2025-01-22,Organic,Company 057,East Midlands,New
+L10488,2025-07-12,Paid Search,Company 045,North West,Qualified
+L10489,2025-03-18,Referral,Company 141,London,Lost
+L10490,2025-11-12,Email,Company 062,London,New
+L10491,2025-09-25,Referral,Company 099,West Midlands,New
+L10492,2025-07-03,Referral,Company 036,Scotland,New
+L10493,2025-03-16,Organic,Company 078,North West,Won
+L10494,2024-07-30,Direct,Company 095,London,Lost
+L10495,2024-10-28,Paid Search,Company 113,West Midlands,Qualified
+L10496,2024-03-27,Email,Company 095,Yorkshire,Lost
+L10497,2024-09-30,Organic,Company 065,Scotland,Qualified
+L10498,2025-11-07,Direct,Company 173,East Midlands,Contacted
+L10499,2024-11-06,Paid Search,Company 092,Scotland,Contacted
+L10304,2025-01-31,Organic,Company 133,Scotland,New
+L10340,2025-04-08,Organic,Company 052,London,New
+L10047,2025-10-13,Organic,Company 106,North West,New
+L10067,2024-09-27,Organic,Company 045,Scotland,New
+L10479,2024-03-20,Organic,Company 102,East Midlands,Contacted

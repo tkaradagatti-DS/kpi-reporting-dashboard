@@ -1,0 +1,108 @@
+<h1>Data Quality Report — Project 1</h1>
+<p>Checks: referential integrity, invalid values, missing data.</p>
+<h2>⚠️ Issues found: 3</h2>
+<h3>Attendance lead_id missing in CRM (rows: 7)</h3>
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th>booking_id</th>
+      <th>lead_id</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>B20028</td>
+      <td>L99999</td>
+    </tr>
+    <tr>
+      <td>B20134</td>
+      <td>L99999</td>
+    </tr>
+    <tr>
+      <td>B20252</td>
+      <td>L99999</td>
+    </tr>
+    <tr>
+      <td>B20465</td>
+      <td>L99999</td>
+    </tr>
+    <tr>
+      <td>B20548</td>
+      <td>L99999</td>
+    </tr>
+    <tr>
+      <td>B20696</td>
+      <td>L99999</td>
+    </tr>
+    <tr>
+      <td>B20734</td>
+      <td>L99999</td>
+    </tr>
+  </tbody>
+</table>
+<h3>Invalid price (<=0 or NULL) (rows: 6)</h3>
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th>booking_id</th>
+      <th>price_gbp</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>B20085</td>
+      <td>-10</td>
+    </tr>
+    <tr>
+      <td>B20240</td>
+      <td>-10</td>
+    </tr>
+    <tr>
+      <td>B20610</td>
+      <td>-10</td>
+    </tr>
+    <tr>
+      <td>B20646</td>
+      <td>-10</td>
+    </tr>
+    <tr>
+      <td>B20728</td>
+      <td>-10</td>
+    </tr>
+    <tr>
+      <td>B20729</td>
+      <td>-10</td>
+    </tr>
+  </tbody>
+</table>
+<h3>Invalid rating (NULL or outside 1-5) (rows: 5)</h3>
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th>booking_id</th>
+      <th>rating_1to5</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>B20158</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <td>B20655</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <td>B20337</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <td>B20586</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <td>B20539</td>
+      <td>NaN</td>
+    </tr>
+  </tbody>
+</table>
